@@ -19,11 +19,12 @@ const App = () => {
     },
     {
       "id": 3,
-      "text": "Food Shopping ",
+      "text": "Food Shopping",
       "day": "Feb 5th at 2:30pm",
       "reminder": false
     }
-  ])
+  ]
+  )
   return (
     <div className="container">
       <Header />
