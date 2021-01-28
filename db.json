@@ -7,18 +7,6 @@
       "id": 7
     },
     {
-      "text": "Take a shower",
-      "day": "Sunday 3pm",
-      "reminder": true,
-      "id": 9
-    },
-    {
-      "text": "we",
-      "day": "sdfsa",
-      "reminder": "false",
-      "id": 10
-    },
-    {
       "text": "12",
       "day": "sdf",
       "reminder": true,
@@ -29,6 +17,12 @@
       "day": "345",
       "reminder": "false",
       "id": 12
+    },
+    {
+      "text": "234",
+      "day": "2344",
+      "reminder": "false",
+      "id": 13
     }
   ]
 }
