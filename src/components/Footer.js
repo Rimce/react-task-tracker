@@ -5,6 +5,7 @@ const Footer = () => {
             <p>Copyright &copy; 2021</p>
             <Link to="/about"> About </Link>
         </footer>
+
     )
 }
 
